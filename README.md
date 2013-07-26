@@ -20,6 +20,7 @@ Just include the jquery.scrollBox.js in your html (after jQuery) e.g. like this:
 ```
 
 ###Usage:
+Works best on elements that not displayed to begin with (display: none;)
 
 Simple version:
 ```
